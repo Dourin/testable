@@ -1,7 +1,7 @@
 ---
 name: Issue Template
 about: Pull Request template
-title: "[BUG], [New Feature], [Documentation]"
+title: "[BUG]|[New Feature]|[Documentation] + Title"
 labels: ''
 assignees: Dourin, thibaultleguern
 
