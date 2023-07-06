@@ -9,9 +9,7 @@
 #include <unistd.h>
 #include <zip.h>
 
-/** 
- * Afficher l'aide
- */
+// test 
 void print_help() {
     printf("Usage: ./zip [OPTION]... [FILE]...\n");
     printf("Options:\n");
